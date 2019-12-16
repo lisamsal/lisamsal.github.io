@@ -1,0 +1,45 @@
+#mychart {
+  max-width: 650px;
+}
+
+body {
+  font-family: 'PT Serif', serif;
+max-width: 700px;
+margin-left: auto;
+margin-right: auto;
+}
+
+img {
+  max-width: 100%;
+}
+.h1 {
+font-family: 'Bebas Neue';
+font-size: 40px;
+}
+
+.byline {
+padding-top: 0px;
+}
+
+.blurbone {
+  padding-top: 25px;
+}
+
+.caption {
+    font-size: 10px;
+    color: #999999;
+    padding-bottom: 15px;
+}
+
+.blurbtwo {
+padding-bottom: 25px;
+}
+
+.blurbthree {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.blurbfour {
+  padding-top: 25px;
+}
